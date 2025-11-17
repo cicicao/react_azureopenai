@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataAgent",
+    "displayName": "claire-da"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "9b2b258e-2f9c-aa93-41fb-2415ec0bf6a3"
+  }
+}

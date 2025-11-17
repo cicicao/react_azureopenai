@@ -1,0 +1,26 @@
+[
+  {
+    "name": "d1",
+    "path": "/Files/testfile",
+    "target": {
+      "type": "AdlsGen2",
+      "adlsGen2": {
+        "connectionId": "8979a499-246b-4498-9d27-950bf9328c74",
+        "location": "https://2510150040000408sto.dfs.core.windows.net",
+        "subpath": "/container1/d1"
+      }
+    }
+  },
+  {
+    "name": "container1",
+    "path": "/Files/testfile",
+    "target": {
+      "type": "AdlsGen2",
+      "adlsGen2": {
+        "connectionId": "8979a499-246b-4498-9d27-950bf9328c74",
+        "location": "https://2510150040000408sto.dfs.core.windows.net",
+        "subpath": "/container1"
+      }
+    }
+  }
+]
